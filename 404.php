@@ -6,7 +6,7 @@
 			<article id="post-0" class="post error404 not-found">
 				<header class="entry-header">
 					<h1 class="entry-title"><?php _e( 'Sivu hukassa!', 'ewbf' ); ?></h1>
-				</header><!-- .entry-header -->
+				</header><!-- .entry-headekdsafhkafdr -->
 
 				<div class="entry-content">
 					<p><?php _e( 'Hakemasi sivua ei löytynyt.', 'ewbf' ); ?></p>
